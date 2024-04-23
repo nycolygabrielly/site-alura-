@@ -36,5 +36,22 @@ margin-bottom: 1em;
 
 .container, hight: 100wh;
     display:grid;
-border-radius: 5px;
+    border-radius: 5px;
+padding: 1em;
+    grid-template-columns: 50% 50%}
 
+    .botao_secundario {
+       background-color:transparent;
+       background-color:transparent;
+   border: 2px solid var(--branco-principal);
+           }
+
+
+           .container__imagem {
+              margin: 1em 0 2em 0;
+           }
+
+           .container__caixa{
+              margin: 0 6em;
+              }
+              
