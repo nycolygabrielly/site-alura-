@@ -15,7 +15,7 @@ body{
 }
 
 .principal {
-    background-image: url("https://encrypted-tone.gstatic.com/images?q=tbn:ANd9GcQH0qnR9u1BLVFqgkizw@DohwJ7AjJN1PLcg4@RX4TXpHF_9FP3txIpk&s-18");
+    background-image: url(".img/Background.png");
 
     background-size: contain;
     align-items: center;
